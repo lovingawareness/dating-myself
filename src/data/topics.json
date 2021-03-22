@@ -1,0 +1,451 @@
+{
+  "topics": [
+    {
+      "name": "about me",
+      "prompts": [
+        "My self-summary",
+        "Favorite thing about the place I live",
+        "Me, a Haiku",
+        "Most people that know me would say I'm",
+        "Favorite memory from my childhood",
+        "Things I am not"
+      ]
+    },
+    {
+      "name": "anime & manga",
+      "prompts": [
+        "Dubs or subs? Why?",
+        "The manga/anime that defined my childhood",
+        "The show I watched way too long after it stopped being good",
+        "My anime guilty pleasure",
+        "The greatest manga artists would have to be..."
+      ]
+    },
+    {
+      "name": "art & design",
+      "prompts": [
+        "What I make",
+        "The best museum, in my opinion",
+        "My thoughts on photography",
+        "Where I get my design inspiration",
+        "My creative outlet",
+        "My most cherished Pinterest pin is",
+        "My favorite work of art",
+        "The artist that's influenced me the most"
+      ]
+    },
+    {
+      "name": "aspirations",
+      "prompts": [
+        "Current goal",
+        "What I'm doing with my life",
+        "One day, I would like to",
+        "I'd like to be known for my",
+        "If money were no concern, this is what I would be doing",
+        "My dream job is"
+      ]
+    },
+    {
+      "name": "books",
+      "prompts": [
+        "Currently reading:",
+        "My favorite book of all-time",
+        "The book that kept me thinking long after turning the last page",
+        "My favorite book cover",
+        "The book I really hated, but finished anyways",
+        "The next book to be adapted to the big screen should be ___ because ___."
+      ]
+    },
+    {
+      "name": "cars",
+      "prompts": [
+        "My favorite classic car",
+        "My dream car",
+        "How I got my first car",
+        "The car I'm most looking forward to",
+        "This country makes the best cars"
+      ]
+    },
+    {
+      "name": "coffee",
+      "prompts": [
+        "Without coffee I would probably never",
+        "Proof I'm a coffee snob",
+        "Proof I'm a coffee addict",
+        "My favorite flavor notes",
+        "My coffee-making setup",
+        "I hate when I hear people order...",
+        "Where I would go on a coffee date"
+      ]
+    },
+    {
+      "name": "comics",
+      "prompts": [
+        "I think movie adaptations of comics are...",
+        "The best comics from last year were...",
+        "The character I most closely identify with would be...",
+        "I will check out anything drawn by...",
+        "DC or Marvel?"
+      ]
+    },
+    {
+      "name": "cooking",
+      "prompts": [
+        "What's the meal you always set the fire alarm off when making?",
+        "Best meal you've cooked",
+        "When do you cook?",
+        "What's your favorite cuisine to cook?",
+        "Favorite holiday to cook for?",
+        "When I'm invited to a party and have to bring a dish to impress, I make...",
+        "The most satisfying part of cooking is...",
+        "My signature date night recipe"
+      ]
+    },
+    {
+      "name": "dating",
+      "prompts": [
+        "What I'm actually looking for",
+        "You should message me if",
+        "Before I go on a date with someone I need to know that",
+        "I will never date someone that",
+        "My worst date",
+        "For our first date, let's"
+      ]
+    },
+    {
+      "name": "feminism",
+      "prompts": [
+        "Favorite feminist icon",
+        "The next thing the feminist movement has to focus on is...",
+        "The kind of feminism I most identify with",
+        "How I deal with people who are anti-feminist",
+        "My thoughts on male allies"
+      ]
+    },
+    {
+      "name": "food & wine",
+      "prompts": [
+        "My go-to restaurant",
+        "How I choose the restaurant to go on a date night",
+        "I'm a wine snob because...",
+        "My trick to picking out the best bottle of wine is to...",
+        "It's 1am and I'm home alone, my guilty pleasure munchie is...",
+        "The best place to go on a dinner date is..."
+      ]
+    },
+    {
+      "name": "gaming",
+      "prompts": [
+        "The retro game that defines me as a person",
+        "The game I can't stop playing",
+        "My favorite game to play with friends",
+        "My gaming avatar",
+        "If I could live inside a video game, it would be...",
+        "My favorite esports team",
+        "In melee, I main:"
+      ]
+    },
+    {
+      "name": "hobbies",
+      "prompts": [
+          "I spend a lot of time thinking about",
+          "I like to take pictures of",
+          "My favorite conspiracy theory",
+          "Last video I watched on YouTube",
+          "The last show I binged",
+          "I should spend less time"
+        ]
+    },
+    {
+      "name": "lgbtq",
+      "prompts": [
+        "How I came to terms with my identity",
+        "My coming-out experience",
+        "Last time I went to Pride",
+        "The most critical issue surrounding LGBTQIA+ rights is...",
+        "Favorite LGBTQIA+ icon",
+        "Favorite LGBTQIA+ film",
+        "Describe your chosen family"
+      ]
+    },
+    {
+      "name": "moments",
+      "prompts": [
+        "On a typical Friday night I am",
+        "A perfect day",
+        "Best day of my life so far",
+        "When I die, I will",
+        "On a typical Wednesday I am"
+      ]
+    },
+    {
+      "name": "movies",
+      "prompts": [
+        "The best movie of all time, in my opinion",
+        "The last movie I saw",
+        "The most eye-opening documentary I've seen",
+        "A movie that's guaranteed to make me cry",
+        "My opinion on the modern film industry",
+        "The greatest director, and their movies ranked:",
+        "We need more movies about...",
+        "This film changed my life",
+        "The Oscar snub I'm still bitter about"
+      ]
+    },
+    {
+      "name": "music",
+      "prompts": [
+        "If I could describe the type of music I play, I'd say...",
+        "My most memorable festival experience:",
+        "Five songs I'd put on a playlist to send to a crush:",
+        "My favorite concert venue",
+        "A band whose music got worse over time, but I still stand by:",
+        "My go-to karaoke song",
+        "Best musician of all time, hands down, is...",
+        "The song I listen to when I want to remember a certain moment in time",
+        "Best song to dance to",
+        "My instrument",
+        "The anthem of my high school years",
+        "If I had to choose between all-analog or all-digital, I'd choose...",
+        "The best part of the Gathering of the Juggalos is...",
+        "Pick one artist to soundtrack your life"
+      ]
+    },
+    {
+      "name": "my traits",
+      "prompts": [
+        "My golden rule",
+        "The first thing people notice about me",
+        "My style can be described as",
+        "I love this about myself",
+        "My go-to dance",
+        "My weirdest quirk"
+      ]
+    },
+    {
+      "name": "needs",
+      "prompts": [
+        "I value",
+        "Six things I could never do without",
+        "If I could eat only one food for the rest of time it would be",
+        "This item makes me feel at home",
+        "My partner should be",
+        "I couldn't function without these apps"
+      ]
+    },
+    {
+      "name": "outdoors",
+      "prompts": [
+        "My favorite outdoor activity is...",
+        "A time I felt \"at one\" with nature",
+        "If I had to choose between mountains, beaches, and deserts, I'd choose",
+        "My favorite camping trip",
+        "The most exhilarating climb I've ever done",
+        "If I was a body of water I would be..."
+      ]
+    },
+    {
+      "name": "performing arts",
+      "prompts": [
+        "My most traumatizing moment on stage was",
+        "My dream role",
+        "The musical cast recording I can't stop listening to",
+        "Favorite show",
+        "My favorite comedian and why",
+        "How I got into performing",
+        "Stephen Sondheim or Andrew Lloyd Webber?"
+      ]
+    },
+    {
+      "name": "pets",
+      "prompts": [
+        "Cats or dogs?",
+        "If I could have any animal as a pet, I would pick...",
+        "My childhood pets",
+        "The story of my pet's name",
+        "The cutest thing my pet does",
+        "If my pet was a human, this is what they'd be like",
+        "Why I love ferrets: a manifesto"
+      ]
+    },
+    {
+      "name": "religion",
+      "prompts": [
+        "The first time I truly believed in a higher power was:",
+        "I thank my religion for giving me the power to...",
+        "My favorite holy book excerpt",
+        "My favorite religious tradition"
+      ]
+    },
+    {
+      "name": "sci-fi & fantasy",
+      "prompts": [
+        "Star Trek vs Star Wars: my thoughts",
+        "My thoughts on Game of Thrones",
+        "The director I most want to re-make Dune is",
+        "Elves or dwarves? I prefer",
+        "My favorite sci-fi / fantasy story"
+      ]
+    },
+    {
+      "name": "secrets",
+      "prompts": [
+        "The most private thing I'm willing to admit",
+        "The last time I was embarrassed",
+        "This is the saddest song ever written",
+        "My biggest regret",
+        "My relationship with my mother"
+      ]
+    },
+    {
+      "name": "social conservatism",
+      "prompts": [
+        "The single most important thing in politics today",
+        "My three wishes as political Aladdin",
+        "What shaped my political views the most",
+        "The one politician my views most align with currently",
+        "The two-party system is...",
+        "The next president should be...",
+        "My thoughts on capitalism"
+      ]
+    },
+    {
+    "name": "social liberalism",
+      "prompts": [
+        "The single most important thing in politics today",
+        "My three wishes as political Aladdin",
+        "What shaped my political views the most",
+        "The one politician my views most align with currently",
+        "The two-party system is...",
+        "The next president should be...",
+        "My thoughts on capitalism"
+      ]
+    },
+    {
+      "name": "sports",
+      "prompts": [
+        "The sports I watch",
+        "The sports I do",
+        "My fantasy team",
+        "My game day traditions",
+        "The jerseys in my closet",
+        "I love my team because...",
+        "The greatest game ever played was...",
+        "This was the greatest moment in sports"
+      ]
+    },
+    {
+      "name": "style",
+      "prompts": [
+        "The all-time-best red carpet look was",
+        "The most iconic fashion house",
+        "I can't leave the house without wearing ___",
+        "My go-to garb for a night out",
+        "Favorite fashion blogs",
+        "This is without a doubt the best hat",
+        "My thoughts on 90's nostalgia in fashion",
+        "The celeb whose closet I want to raid"
+      ]
+    },
+    {
+      "name": "tabletop games",
+      "prompts": [
+        "If the internet goes out at my house and I'm having a party, the game I pull out is:",
+        "My most memorable board game accomplishment",
+        "Out of all the Candyland characters, I most closely identify with...",
+        "My favorite board game and why",
+        "My favorite D&D character I've ever played"
+      ]
+    },
+    {
+      "name": "talent",
+      "prompts": [
+        "I could probably beat you at",
+        "I'm really good at",
+        "I like to make",
+        "My patronus",
+        "I want to be better at",
+        "My worst quality"
+      ]
+    },
+    {
+      "name": "tattoos",
+      "prompts": [
+        "My most meaningful tattoo is...",
+        "My biggest tattoo regret is...",
+        "Plans for my next tattoo(s)",
+        "My favorite style of tattoo art",
+        "The one artist I'd love to get tattooed by"
+      ]
+    },
+    {
+      "name": "travel",
+      "prompts": [
+        "My all-time favorite travel experience",
+        "The most exciting place I've ever been",
+        "The one place I'd never go back to",
+        "If a million dollars fell into my lap, this would be my vacation itinerary:",
+        "The weirdest thing that's happened to me while traveling",
+        "My favorite relaxation destination",
+        "My next big trip",
+        "I love traveling because"
+      ]
+    },
+    {
+      "name": "tv shows",
+      "prompts": [
+        "The show I've rewatched too many times",
+        "The show I want to cheer me up when I'm feeling down",
+        "The show I most recently watched",
+        "My favorite crime drama",
+        "The trashy reality TV show I secretly love",
+        "My favorite on-screen couple is...",
+        "Best Netflix Original series, hands down:",
+        "More people should be watching...",
+        "My favorite episode of TV ever is..."
+      ]
+    },
+    {
+      "name": "vegetarianism",
+      "prompts": [
+        "Eating a plant-based dieet has taught me that...",
+        "Why I am a vegetarian (or vegan):",
+        "The best plant-based meal I've ever had at a restaurant",
+        "Level 5 vegans are...",
+        "My favorite plant-based meal to cook is..."
+      ]
+    },
+    {
+      "name": "work",
+      "prompts": [
+        "What I love about my job",
+        "How I got into my career",
+        "Why work is important to me",
+        "My dream job"
+      ]
+    },
+    {
+      "name": "working out & wellness",
+      "prompts": [
+        "How I got into fitness",
+        "My workout routine",
+        "I'm currently training for",
+        "My dream yoga retreat",
+        "What's the trendy \"superfood\" that you actually can't live without?",
+        "The thing that keeps me in shape",
+        "My go-to smoothie recipe"
+      ]
+    },
+    {
+      "name": "writing",
+      "prompts": [
+        "My writing routine",
+        "Some things I have published",
+        "The greatest sentence ever written",
+        "Writing pet-peeves",
+        "What I'm working on",
+        "What I want to write"
+      ]
+    }
+  ]
+}
